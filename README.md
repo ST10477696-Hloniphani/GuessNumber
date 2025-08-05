@@ -1,13 +1,9 @@
 Group info (Name - Student Number):
 
 Katleho - ST10482606
-
 Hloniphani- ST10477696
-
 Siyabonga - ST10484421
-
 Luyanda - ST10469550
-
 
 Descriotion of the App:
 
