@@ -45,10 +45,10 @@ Restart Button – Resets the game with a new number and guess count.
 
 Screenshot
 
-![App Screenshot]([screenshot.png](https://github.com/ST10477696-Hloniphani/GuessNumber/blob/092d14c005928d76036043bba678cb4303268702/1.jpeg))
-![App Screenshot]([screenshot.png](https://github.com/ST10477696-Hloniphani/GuessNumber/blob/092d14c005928d76036043bba678cb4303268702/2.jpeg))
-![App Screenshot]([screenshot.png](https://github.com/ST10477696-Hloniphani/GuessNumber/blob/092d14c005928d76036043bba678cb4303268702/3.jpeg))
-![App Screenshot]([screenshot.png](https://github.com/ST10477696-Hloniphani/GuessNumber/blob/092d14c005928d76036043bba678cb4303268702/4.jpeg))
-![App Screenshot]([screenshot.png](https://github.com/ST10477696-Hloniphani/GuessNumber/blob/092d14c005928d76036043bba678cb4303268702/5.jpeg))
+![image alt]([screenshot.png](https://github.com/ST10477696-Hloniphani/GuessNumber/blob/092d14c005928d76036043bba678cb4303268702/1.jpeg))
+![image alt]([screenshot.png](https://github.com/ST10477696-Hloniphani/GuessNumber/blob/092d14c005928d76036043bba678cb4303268702/2.jpeg))
+![image alt]([screenshot.png](https://github.com/ST10477696-Hloniphani/GuessNumber/blob/092d14c005928d76036043bba678cb4303268702/3.jpeg))
+![image alt]([screenshot.png](https://github.com/ST10477696-Hloniphani/GuessNumber/blob/092d14c005928d76036043bba678cb4303268702/4.jpeg))
+![image alt]([screenshot.png](https://github.com/ST10477696-Hloniphani/GuessNumber/blob/092d14c005928d76036043bba678cb4303268702/5.jpeg))
 
 
